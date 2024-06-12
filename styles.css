@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+  color: white;
+}
+.container {
+  max-width: 400px;
+  background-color: #333;
+  height: 200px;
+  margin: 40px auto;
+  display: grid;
+  place-items: center;
+  font-size: 52px;
+  color: yellow;
+  border-radius: 4px;
+}
+h1 {
+  text-align: center;
+}
+span {
+  padding: 8px;
+  background-color: black;
+  border-radius: 4px;
+}
